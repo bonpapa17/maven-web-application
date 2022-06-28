@@ -92,8 +92,7 @@
 		</dependency>
 		
 	</dependencies>
-	
-	http://35.175.186.192:8081/repository/paypal-releases/
+
 	
 	  <distributionManagement>
 	    <repository>
